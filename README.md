@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey there! 👋
 
-<!--
-**joshnaa21/joshnaa21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Joshna**, an MCA student passionate about Artificial Intelligence,
+Machine Learning, Cloud Computing and Computer Networks.
 
-Here are some ideas to get you started:
+I enjoy solving problems through technology and continuously expanding my
+knowledge by building practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning
+
+- 🤖 Machine Learning
+- ☁️ AWS Cloud
+- 🐳 Docker
+- 🐧 Linux
+- 🌐 Computer Networking
+
+My goal is to become an AI Engineer with strong cloud and networking fundamentals.
